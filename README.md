@@ -17,5 +17,5 @@ Fun Facts:
 - 🔭 I’m currently working on Google analytics Ga4 .net Sdk
 - 🌱 I’m currently learning Fhir
 - 💬 Ask me about Google APIs
-- ⚡ Fun fact: My first grand child is due September 2022.
+- ⚡ Fun fact: My first grandchild is due September 2022.
 
