@@ -5,8 +5,8 @@
 
 Facts:
 
-- 🌐 My web site[Daimto](https://www.daimto.com)
-- ▶️ My youtube channle [Daimto Developer tips](https://www.youtube.com/channel/UCyqzvMN8newXIxyYIkFzPvA/videos)
+- 🌐 My website [Daimto](https://www.daimto.com)
+- ▶️ My youtube channel [Daimto Developer tips](https://www.youtube.com/channel/UCyqzvMN8newXIxyYIkFzPvA/videos)
 - 🌐 Google developer expert [GDE Linda Lawton](https://developers.google.cn/community/experts/directory/profile/profile-linda-lawton)
 - Daimto [Stack overflow](https://stackoverflow.com/users/1841839/daimto)
 - 📫 How to reach me: [Twitter](https://twitter.com/home)
